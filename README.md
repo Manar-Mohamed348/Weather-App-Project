@@ -1,4 +1,5 @@
 # Weather-App-Project
+![QuickWeather App Screenshot](https://i.postimg.cc/9z5wZyVj/Screenshot-2025-08-11-144145.png)
 🌦️ QuickWeather – Instant Weather Updates
 A lightweight weather app that delivers real-time conditions for your location.
 
