@@ -4,7 +4,7 @@
 A lightweight weather app that delivers real-time conditions for your location.
 
 🌟 Core Features:
-Current weather snapshots: Temperature, humidity, wind speed, and weather conditions (sunny/rainy/etc.)
+Current weather snapshots: Temperature, humidity, wind speed, sunrise, sunset and weather conditions (sunny/rainy/etc.)
 
 Precise location: Auto-detects your area via GPS or manual city search
 
