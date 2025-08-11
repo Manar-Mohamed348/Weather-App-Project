@@ -17,4 +17,4 @@ Frontend: HTML5, CSS3, JavaScript
 
 API: OpenWeatherMap
 
-🚀 Try it live: [Demo Link (add your URL here)](https://manar-mohamed348.github.io/Weather-App-Project/)
+🚀 Try it live: [Demo Link](https://manar-mohamed348.github.io/Weather-App-Project/)
