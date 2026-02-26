@@ -5,7 +5,7 @@ const descriptionElement = document.querySelector(".Description");
 const DateTime = document.querySelector(".DateTime");
 const image = document.querySelector("img");
 const detail = document.querySelectorAll("h4");
-const apiKey = "21b3f00a6c679136287c1451ecf6166b";
+const apiKey = "2d5dda0cd3fac9a5b71de157b9c31ede";
 
 // Main weather fetch function
 async function getWeather() {
@@ -124,4 +124,5 @@ function displayWeather(data, locationName, country) {
 document.querySelector("input[type='button']").addEventListener("click", getWeather);
 document.querySelector("#citySearch").addEventListener("keypress", (e) => {
     if (e.key === "Enter") getWeather();
+
 });
